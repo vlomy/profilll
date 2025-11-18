@@ -13,7 +13,6 @@
         header {
             background-color: #000000;
             color: #ffffff;
-            padding: 50px 20px;
             text-align: center;
             position: relative;
         }
