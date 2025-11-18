@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-    <title>Professional Profile - [Your Name]</title>
+    <title>SYEVITA AISYAH</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
